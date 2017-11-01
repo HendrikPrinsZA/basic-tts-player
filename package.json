@@ -1,0 +1,37 @@
+{
+  "name": "basic-tts-player",
+  "version": "0.1.0",
+  "description": "Text to speech to speaker",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec",
+    "simple": "basic-tts-player 'Hello'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HendrikPrinsZA/basic-tts-player.git"
+  },
+  "keywords": [
+    "tts",
+    "text-to-speech",
+    "mp3"
+  ],
+  "bin": {
+    "basic-tts-player": "cli.js"
+  },
+  "author": "Hendrik Prinsloo <info@hendrikprinsloo.co.za> (http://hendrikprinsloo.co.za)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HendrikPrinsZA/basic-tts-player/issues"
+  },
+  "homepage": "https://github.com/HendrikPrinsZA/basic-tts-player#readme",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "google-tts-api": "0.0.2",
+    "node-wget": "^0.4.2",
+    "play-sound": "^1.1.1"
+  }
+}
