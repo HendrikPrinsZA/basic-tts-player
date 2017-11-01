@@ -16,12 +16,12 @@ function basicTtsPlayer(string) {
     googleTTS(string, 'en', 1).then(function (url) {
         wget({
             url: url,
-            dest: 'tmp/audio-file.mp3'
+            dest: '/tmp/basic-tts-player.mp3'
         }, function(error, response, body) {
             if (error) {
                 console.log('Error: Failed to generate audio file');
             } else {
-                player.play('tmp/audio-file.mp3', function(err){
+                player.play('/tmp/basic-tts-player.mp3', function(err){
                     if (err) throw err
                     return {
                         url: url
