@@ -1,5 +1,5 @@
 {
-  "name": "basic-tts-player",
+  "name": "@hendrikprinsza/basic-tts-player",
   "version": "0.1.0",
   "description": "Text to speech to speaker",
   "main": "index.js",
