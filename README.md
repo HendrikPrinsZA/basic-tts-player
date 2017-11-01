@@ -21,7 +21,7 @@ bTtsPlayer("Hello, this is a test string");
 Install:
 
 ```bash
-$ npm install -g basic-tts-player
+$ npm install -g @hendrikprinsza/basic-tts-player
 ```
 
 Use:
