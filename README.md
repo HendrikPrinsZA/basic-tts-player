@@ -1,5 +1,5 @@
 # basic-tts-player
-[![NPM version](https://badge.fury.io/js/%40hendrikprinsza%2Fbasic-tts-player.png?branch=master)](http://badge.fury.io/js/wgetjs) [![Build Status](https://travis-ci.org/angleman/%40hendrikprinsza%2Fbasic-tts-player.png?branch=master)](https://travis-ci.org/angleman/%40hendrikprinsza%2Fbasic-tts-player) [![Dependency Status](https://gemnasium.com/angleman/%40hendrikprinsza%2Fbasic-tts-player.png?branch=master)](https://gemnasium.com/angleman/%40hendrikprinsza%2Fbasic-tts-player) [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](#licensemit) [![Downloads](https://img.shields.io/npm/dt/%40hendrikprinsza%2Fbasic-tts-player.svg)](https://npmjs.org/package/%40hendrikprinsza%2Fbasic-tts-player)
+[![NPM version](https://badge.fury.io/js/%40hendrikprinsza%2Fbasic-tts-player.png?branch=master)](http://badge.fury.io/js/%40hendrikprinsza%2Fbasic-tts-player) [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](#licensemit) [![Downloads](https://img.shields.io/npm/dt/%40hendrikprinsza%2Fbasic-tts-player.svg)](https://npmjs.org/package/%40hendrikprinsza%2Fbasic-tts-player)
 
 Convert text to speech and play the sound
 
