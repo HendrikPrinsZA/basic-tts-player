@@ -1,12 +1,8 @@
 {
   "name": "@hendrikprinsza/basic-tts-player",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Text to speech to speaker",
   "main": "index.js",
-  "scripts": {
-    "test": "mocha --reporter spec",
-    "simple": "basic-tts-player 'Hello'"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/HendrikPrinsZA/basic-tts-player.git"

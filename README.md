@@ -5,7 +5,7 @@ Convert text to speech and play the sound
 ## Install
 
 ```
-npm install basic-tts-player
+npm i @hendrikprinsza/basic-tts-player
 ```
 
 ## Usage
