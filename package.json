@@ -1,6 +1,6 @@
 {
   "name": "@hendrikprinsza/basic-tts-player",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Text to speech to speaker",
   "main": "index.js",
   "repository": {
