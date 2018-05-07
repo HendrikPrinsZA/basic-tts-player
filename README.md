@@ -2,6 +2,16 @@
 
 Convert text to speech and play the sound
 
+## IMPORTANT: Security vulnerabilities
+This package has some known security vulnerabilities. You should only reference it as an example. I'll keep an eye on the dependent packages and update them as soon as the issues have been resolved.
+- [CVE-2018-3728](https://nvd.nist.gov/vuln/detail/CVE-2018-3728)
+- [CVE-2014-7191](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-7191)
+
+
+```
+npm i @hendrikprinsza/basic-tts-player
+```
+
 ## Install
 
 ```
