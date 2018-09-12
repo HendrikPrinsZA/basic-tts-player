@@ -1,6 +1,6 @@
 {
   "name": "@hendrikprinsza/basic-tts-player",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "description": "Text to speech to speaker",
   "main": "index.js",
   "repository": {
@@ -12,6 +12,9 @@
     "text-to-speech",
     "mp3"
   ],
+  "scripts": {
+    "local": "./cli.js"
+  },
   "bin": {
     "basic-tts-player": "cli.js"
   },
@@ -26,8 +29,8 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "google-tts-api": ">=0.0.2",
-    "node-wget": ">=0.4.2",
-    "play-sound": ">=1.1.1"
+    "google-tts-api": "0.0.2",
+    "play-sound": "^1.1.2",
+    "wget-improved": "^3.0.1"
   }
 }
