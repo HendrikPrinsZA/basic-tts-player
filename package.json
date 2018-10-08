@@ -1,7 +1,7 @@
 {
   "name": "@hendrikprinsza/basic-tts-player",
-  "version": "0.2.0",
-  "description": "Text to speech to speaker",
+  "version": "0.2.1",
+  "description": "Play text string through device speakers",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -29,7 +29,7 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "google-tts-api": "0.0.2",
+    "google-tts-api": "0.0.3",
     "play-sound": "^1.1.2",
     "wget-improved": "^3.0.1"
   }
